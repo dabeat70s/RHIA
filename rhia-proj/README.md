@@ -8,6 +8,6 @@ Most recent Techs
 
 ### `useState`
 
-### `UserReducer`
+### `UseReducer`
 
 etc....
